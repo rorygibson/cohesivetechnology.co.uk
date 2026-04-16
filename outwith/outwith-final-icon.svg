@@ -1,0 +1,174 @@
+<svg viewBox="0 0 1200 1000" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;700&display=swap');
+      
+      .title { 
+        font-family: 'DM Sans', sans-serif; 
+        font-weight: 700; 
+        font-size: 32px;
+        fill: #1a1a1a;
+      }
+      .subtitle { 
+        font-family: 'DM Sans', sans-serif; 
+        font-weight: 500; 
+        font-size: 18px;
+        fill: #666;
+      }
+      .label {
+        font-family: 'DM Sans', sans-serif;
+        font-weight: 500;
+        font-size: 14px;
+        fill: #1a1a1a;
+      }
+      .color-label {
+        font-family: 'DM Sans', sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        fill: #1a1a1a;
+      }
+      .hex {
+        font-family: 'DM Sans', sans-serif;
+        font-weight: 500;
+        font-size: 12px;
+        fill: #666;
+      }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="1000" fill="#fafafa"/>
+  
+  <!-- Header -->
+  <text x="60" y="70" class="title">Outwith Final Icon</text>
+  <text x="60" y="100" class="subtitle">Classic Vault • Arrows flipped • Clean corners</text>
+  
+  <!-- Brand Colors Reference -->
+  <rect x="60" y="130" width="80" height="30" rx="4" fill="#2d5016"/>
+  <text x="150" y="150" class="label" style="font-size: 12px;">#2D5016 Forest Green</text>
+  
+  <rect x="320" y="130" width="80" height="30" rx="4" fill="#546e7a"/>
+  <text x="410" y="150" class="label" style="font-size: 12px;">#546E7A Slate Grey</text>
+  
+  <!-- Main Icon Display -->
+  <text x="60" y="220" class="title" style="font-size: 24px;">Icon at All Sizes</text>
+  
+  <!-- 128px version -->
+  <g id="icon-128">
+    <rect x="60" y="260" width="280" height="280" rx="12" fill="white" stroke="#e0e0e0" stroke-width="2"/>
+    <text x="200" y="290" text-anchor="middle" class="color-label">128px (High Res)</text>
+    
+    <g transform="translate(108, 320)">
+      <rect x="16" y="16" width="96" height="96" rx="8" fill="none" stroke="#546e7a" stroke-width="10"/>
+      <path d="M 84 64 L 64 44 L 64 56 L 40 56 L 40 72 L 64 72 L 64 84 Z" 
+            fill="#2d5016" stroke="#2d5016" stroke-width="4" stroke-linejoin="round"/>
+    </g>
+    <text x="200" y="520" text-anchor="middle" class="label" style="font-size: 11px;">Logo, hero sections</text>
+  </g>
+  
+  <!-- 64px version -->
+  <g id="icon-64">
+    <rect x="380" y="260" width="200" height="200" rx="12" fill="white" stroke="#e0e0e0" stroke-width="2"/>
+    <text x="480" y="290" text-anchor="middle" class="color-label">64px</text>
+    
+    <g transform="translate(416, 320)">
+      <rect x="8" y="8" width="48" height="48" rx="4" fill="none" stroke="#546e7a" stroke-width="5"/>
+      <path d="M 42 32 L 32 22 L 32 28 L 20 28 L 20 36 L 32 36 L 32 42 Z" 
+            fill="#2d5016" stroke="#2d5016" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+    <text x="480" y="480" text-anchor="middle" class="label" style="font-size: 11px;">Navigation, headers</text>
+  </g>
+  
+  <!-- 32px version -->
+  <g id="icon-32">
+    <rect x="620" y="260" width="140" height="140" rx="12" fill="white" stroke="#e0e0e0" stroke-width="2"/>
+    <text x="690" y="290" text-anchor="middle" class="color-label">32px</text>
+    
+    <g transform="translate(636, 320)">
+      <rect x="4" y="4" width="24" height="24" rx="2" fill="none" stroke="#546e7a" stroke-width="3"/>
+      <path d="M 21 16 L 16 11 L 16 14 L 10 14 L 10 18 L 16 18 L 16 21 Z" 
+            fill="#2d5016" stroke="#2d5016" stroke-width="1.5" stroke-linejoin="round"/>
+    </g>
+    <text x="690" y="420" text-anchor="middle" class="label" style="font-size: 11px;">Buttons, toolbars</text>
+  </g>
+  
+  <!-- 16px version -->
+  <g id="icon-16">
+    <rect x="800" y="260" width="100" height="100" rx="12" fill="white" stroke="#e0e0e0" stroke-width="2"/>
+    <text x="850" y="290" text-anchor="middle" class="color-label">16px</text>
+    
+    <g transform="translate(808, 318)">
+      <rect x="2" y="2" width="12" height="12" rx="1" fill="none" stroke="#546e7a" stroke-width="2"/>
+      <path d="M 10.5 8 L 8 5.5 L 8 7 L 5.5 7 L 5.5 9 L 8 9 L 8 10.5 Z" 
+            fill="#2d5016" stroke="none"/>
+    </g>
+    <text x="850" y="380" text-anchor="middle" class="label" style="font-size: 11px;">Favicon, mobile</text>
+  </g>
+  
+  <!-- Dark UI Examples -->
+  <text x="60" y="600" class="title" style="font-size: 24px;">Dark UI Versions</text>
+  
+  <!-- 64px dark -->
+  <g id="dark-64">
+    <rect x="60" y="640" width="200" height="200" rx="12" fill="#1a1a1a" stroke="#333" stroke-width="2"/>
+    <text x="160" y="665" text-anchor="middle" class="color-label" fill="white">64px Dark</text>
+    
+    <g transform="translate(96, 700)">
+      <rect x="8" y="8" width="48" height="48" rx="4" fill="none" stroke="#546e7a" stroke-width="5"/>
+      <path d="M 42 32 L 32 22 L 32 28 L 20 28 L 20 36 L 32 36 L 32 42 Z" 
+            fill="#2d5016" stroke="#2d5016" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+    <text x="160" y="860" text-anchor="middle" class="label" fill="#999" style="font-size: 11px;">Perfect contrast</text>
+  </g>
+  
+  <!-- 32px dark -->
+  <g id="dark-32">
+    <rect x="300" y="640" width="140" height="140" rx="12" fill="#1a1a1a" stroke="#333" stroke-width="2"/>
+    <text x="370" y="665" text-anchor="middle" class="color-label" fill="white">32px Dark</text>
+    
+    <g transform="translate(316, 700)">
+      <rect x="4" y="4" width="24" height="24" rx="2" fill="none" stroke="#546e7a" stroke-width="3"/>
+      <path d="M 21 16 L 16 11 L 16 14 L 10 14 L 10 18 L 16 18 L 16 21 Z" 
+            fill="#2d5016" stroke="#2d5016" stroke-width="1.5" stroke-linejoin="round"/>
+    </g>
+    <text x="370" y="800" text-anchor="middle" class="label" fill="#999" style="font-size: 11px;">Stays crisp</text>
+  </g>
+  
+  <!-- 16px dark -->
+  <g id="dark-16">
+    <rect x="480" y="640" width="100" height="100" rx="12" fill="#1a1a1a" stroke="#333" stroke-width="2"/>
+    <text x="530" y="665" text-anchor="middle" class="color-label" fill="white">16px Dark</text>
+    
+    <g transform="translate(488, 698)">
+      <rect x="2" y="2" width="12" height="12" rx="1" fill="none" stroke="#546e7a" stroke-width="2"/>
+      <path d="M 10.5 8 L 8 5.5 L 8 7 L 5.5 7 L 5.5 9 L 8 9 L 8 10.5 Z" 
+            fill="#2d5016" stroke="none"/>
+    </g>
+    <text x="530" y="760" text-anchor="middle" class="label" fill="#999" style="font-size: 11px;">Readable</text>
+  </g>
+  
+  <!-- Usage Notes -->
+  <rect x="620" y="640" width="540" height="200" rx="12" fill="white" stroke="#e0e0e0" stroke-width="2"/>
+  <text x="890" y="680" text-anchor="middle" class="color-label" style="font-size: 20px;">Design Notes</text>
+  
+  <g transform="translate(650, 710)">
+    <text x="0" y="0" class="label" style="font-size: 14px; font-weight: 700;">Arrow Direction:</text>
+    <text x="0" y="25" class="label" style="font-size: 13px;">• Points LEFT (180° from original)</text>
+    <text x="0" y="48" class="label" style="font-size: 13px;">• Suggests "sharing outward"</text>
+    <text x="0" y="71" class="label" style="font-size: 13px;">• Clean vault frame, no corner details</text>
+    
+    <text x="260" y="0" class="label" style="font-size: 14px; font-weight: 700;">Specifications:</text>
+    <text x="260" y="25" class="label" style="font-size: 13px;">• Minimum size: 16px</text>
+    <text x="260" y="48" class="label" style="font-size: 13px;">• Stroke weight scales with size</text>
+    <text x="260" y="71" class="label" style="font-size: 13px;">• Works on light and dark backgrounds</text>
+  </g>
+  
+  <!-- Export Formats -->
+  <text x="60" y="930" class="label" style="font-size: 12px; fill: #999;">
+    Export formats: SVG (scalable), PNG @1x/2x/3x (16px, 32px, 64px, 128px, 256px)
+  </text>
+  
+  <text x="60" y="960" class="label" style="font-size: 12px; fill: #999;">
+    Outwith Final Icon • Classic Vault with Left-Pointing Arrow • December 2025
+  </text>
+</svg>
