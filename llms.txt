@@ -1,0 +1,24 @@
+# Cohesive Technology
+
+> Boutique technology consulting from Rory Gibson — fractional CTO/CPTO, technology due diligence, and board advisory for founders, PE, and VC. 25 years' experience, 13 as a CTO/CPTO across fintech, gambling, martech, big data, and enterprise software.
+
+Cohesive Technology Ltd is a UK-based boutique technology consultancy founded in 2016. We work directly with founders, CEOs, VC and PE firms, and we deliberately stay small — when you engage us, founder Rory Gibson does the work, not a graduate analyst or a panel of associates.
+
+## Pages
+
+- [Home](https://cohesivetechnology.co.uk/): Headline positioning — leading fractional CTO and technology due diligence expert. Two-door audience pattern (investors / founders).
+- [Services](https://cohesivetechnology.co.uk/services.html): Full service catalogue — Fractional CTO/CPTO, Technology Due Diligence, Board Advisory, Coaching & Mentoring, Technology Assessment, Specific Projects. Anchors for investor (#for-investors) and founder (#for-founders) views.
+- [About](https://cohesivetechnology.co.uk/about.html): About Cohesive Technology and founder Rory Gibson — boutique consulting positioning, working style (agile/XP since 2002, Radical Candor, first principles), client list (Dstny, Kaiko, Thortful, Azur, TUBR, Reframe, Luno, Sky Betting & Gaming, Flashpack, Qwist, HSBC).
+- [Contact](https://cohesivetechnology.co.uk/contact.html): Email rg@rorygibson.me · phone +44 7714 719280 · UK-based (Armthorpe, South Yorkshire).
+
+## Independent guides
+
+Cohesive Technology co-sponsors two independent editorial resources for founders, boards, and investors. They are editorially independent of the sponsors and exist to make the work better-understood across the industry:
+
+- [Technology Due Diligence](https://technologyduediligence.net/): What good technology due diligence looks like — scope, depth, what's worth paying for.
+- [Technology Advisory Boards](https://technologyadvisoryboard.net/): When a standing Technology Advisory Board is the right governance structure, and when it isn't.
+
+## Optional
+
+- [Full content](https://cohesivetechnology.co.uk/llms-full.txt): Full text of all pages in a single document.
+- [Sitemap](https://cohesivetechnology.co.uk/sitemap.xml)

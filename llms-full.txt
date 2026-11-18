@@ -1,0 +1,149 @@
+# Cohesive Technology
+
+> Boutique technology consulting from Rory Gibson — fractional CTO/CPTO, technology due diligence, and board advisory for founders, PE, and VC. 25 years' experience, 13 as a CTO/CPTO across fintech, gambling, martech, big data, and enterprise software.
+
+Cohesive Technology Ltd is a UK-based boutique technology consultancy founded in 2016. Contact: rg@rorygibson.me · +44 7714 719280 · Coach House, Barton Lane, Armthorpe, DN3 3AA, United Kingdom.
+
+---
+
+## Home (https://cohesivetechnology.co.uk/)
+
+**Leading Fractional CTO and tech due diligence expert.**
+
+Fractional CTO / CPTO, technology due diligence, and board advisory for founders, PE, and VC.
+
+### How We Work
+
+We work with companies and investors to solve technology problems.
+
+- **Technology Due Diligence** — Comprehensive technical assessment for potential acquisitions and investments.
+- **Fractional CTO / CPTO** — Part-time interim CTO / CPTO services to guide your technology and product strategy and team.
+- **Board Advisory** — Impartial technology advice for your board or CEO, including NED roles.
+- **Coaching & Mentoring** — Support for your CTO, VP Engineering, or Engineering Directors.
+- **Technology Assessment** — Evaluate how well your engineering and product teams are performing.
+- **Specific Projects** — Architecture, Big Data, security, and other specialised technical projects.
+
+### Experience That Matters
+
+Two decades of building, running and leading technology teams across multiple sectors including public sector, enterprise, startups, scale-ups, fintech, and martech. Development, architecture, team leadership, agile and project management, tactics and strategy.
+
+### Trusted By
+
+Dstny, Kaiko, Thortful, Azur, TUBR, Reframe, Luno, Sky Betting & Gaming, Flashpack, CGE Partners, Qwist GmbH, HSBC, Seccl, CLEO Systems.
+
+---
+
+## Services (https://cohesivetechnology.co.uk/services.html)
+
+### Fractional / Consulting CTO / CPTO
+
+Strategic technology and product leadership without the full-time commitment.
+
+Many startups and scale-ups don't need to hire a full-time CTO or CPTO. Getting an experienced one is expensive, and many CTOs and CPTOs with the experience to help you scale are no longer hands-on enough to help you build in the first place. We engage part-time with startups and scale-ups who want a strong combination of strategy and tactics, from someone who's still close enough to the code to tell what works and what doesn't — and why.
+
+What you get:
+- Strategic technology planning and roadmapping
+- Team leadership and mentoring
+- Architecture and technical decision-making
+- Hands-on technical guidance
+- Excellent price-performance ratio
+- Experience across multiple sectors
+- Both strategic vision and tactical execution
+- Flexible engagement models
+
+Bringing in a "fractional CTO / CPTO" (a fraction of our time) gives you the expertise you need at a cost that works for your business.
+
+### Technology Due Diligence
+
+Comprehensive technical assessment for informed investment decisions.
+
+We regularly undertake technology-focused due diligence reviews for Venture Capital and Private Equity houses. These range from quick summaries to multi-day (or multi-week) deep dives into every aspect of a target company's technology stack, team, and processes. We also work informally with companies planning to raise money or who have made significant changes and want an objective opinion on how well they're doing.
+
+Our due diligence covers:
+- Technology stack assessment
+- Code quality and architecture review
+- Team capability evaluation
+- Development processes and practices
+- Security and compliance assessment
+- Scalability analysis
+- Technical debt identification
+- IP and licensing review
+- Infrastructure and operations
+- Risk assessment and recommendations
+
+Scope: From rapid assessments to comprehensive multi-week deep dives, tailored to your needs.
+
+For an independent explanation of what good TDD looks like — scope, depth, what's worth paying for — see https://technologyduediligence.net, a neutral resource we co-sponsor.
+
+### Advisory
+
+Strategic technology guidance for VCs, PE firms, companies, and portfolios.
+
+We provide ongoing advisory services to help investors and companies make better technology decisions, optimise their technology organisations, and maximise value creation.
+
+For Venture Capital & Private Equity:
+- Portfolio company technology assessment
+- Investment opportunity evaluation
+- Value creation planning
+- Portfolio CTO / CPTO advisory
+
+For Companies:
+- Board-level technology advice
+- Non-Executive Director roles
+- CTO / CPTO / VP Engineering coaching and mentoring
+- Technology strategy development
+
+Technology Assessments:
+- Engineering team effectiveness reviews
+- Product development process evaluation
+- Organisational health checks
+
+Specific Projects:
+- Architecture reviews and design
+- Big Data strategy and implementation
+- Security assessments and improvements
+
+For an independent explanation of when a Technology Advisory Board is the right structure — and when it isn't — see https://technologyadvisoryboard.net, a neutral resource we co-sponsor.
+
+---
+
+## About (https://cohesivetechnology.co.uk/about.html)
+
+### Who We Are
+
+Cohesive Technology Ltd is a boutique technology consulting company founded in 2016, specialising in helping businesses and investors navigate complex technology challenges.
+
+Cohesive Technology is deliberately small. When you engage us, Rory Gibson does the work — not a graduate analyst, not a panel of associates whose names you'll never learn. That's how a boutique pays for itself: senior eyes on the actual problem, faster turnaround, no escalation chain.
+
+We focus on technology due diligence, private equity portfolio advisory work in technology, fractional CTO and CPTO services, and general executive technology consulting. Our approach combines strategic thinking with practical, hands-on experience to deliver real results.
+
+### Our Founder
+
+Rory Gibson is the founder and Managing Director of Cohesive Technology. With 25 years of experience in technology and over 13 years as a CTO/CPTO, Rory brings deep expertise across development, architecture, team leadership, agile practices, and strategic technology planning. Rory has worked across multiple sectors including public sector, agencies, startups, gambling, fintech, marketing tech, big data, and enterprise software.
+
+### Our Style
+
+Since 2002, we've been advocates of agile methodologies and XP practices. We believe in the agile manifesto more than commercialised methodologies like Scrum or SAFe. Our approach is to look at technology and people problems from first principles, always starting by simplifying wherever possible.
+
+- **We coach your team, we don't replace it** — Great software is made by teams; our job is to make yours work better, not to install a parallel one.
+- **A verdict, not a stack of caveats** — We practice Radical Candor: kind, honest, helpful. Our reports tell you what we think, not what's safe to write.
+- **We start by simplifying** — We approach problems from first principles. Often the right answer is to do less, not more.
+
+### Independent guides
+
+We help write the independent guides. Cohesive co-sponsors https://technologyduediligence.net and https://technologyadvisoryboard.net — neutral resources for founders, boards, and investors. The guides exist to make the work better-understood across the industry, including by competitors of ours; that's the point.
+
+### Trusted by Leading Companies
+
+We've worked with a diverse range of clients including Dstny, Kaiko, Thortful, Azur, TUBR, Reframe, Luno, Sky Betting & Gaming, Flashpack, Qwist GmbH, HSBC, Seccl, and CLEO Systems.
+
+---
+
+## Contact (https://cohesivetechnology.co.uk/contact.html)
+
+- **Email**: rg@rorygibson.me
+- **Phone**: +44 7714 719280
+- **Website**: https://cohesivetechnology.co.uk
+- **Address**: Coach House, Barton Lane, Armthorpe, DN3 3AA, United Kingdom
+
+Whether you're looking for fractional CTO / CPTO services, technology due diligence, advisory support, or have a specific technology challenge, we'd love to hear from you. Get in touch to discuss your needs and explore how Cohesive Technology can help your business succeed.
